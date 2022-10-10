@@ -57,6 +57,7 @@ body {
 }
 
 .hero-content {
+    display:flex
     width: 100%;
     max-width: 1000px;
     text-align: center;
@@ -178,7 +179,7 @@ a:hover, a:active {
     border: 2px solid #333333;
 }
 .hero-content .btn:hover, .hero-content .btn:active {
-    background: #333333;
+    background: #74b44a;
     color: #F1F1F1;
     border: 2px solid #666666;
 }
